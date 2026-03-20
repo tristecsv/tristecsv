@@ -1,5 +1,4 @@
 # Hi, I'm Triste Gonzalez 👋
-
 **Flutter Developer** focused on Android · I build apps that solve real problems.
 
 <div align="center">
@@ -19,26 +18,29 @@
 ### [birthday-progress](https://github.com/tristecsv/birthday-progress)
 Flutter + Kotlin app with a native Android AppWidget showing circular progress to the next birthday.
 Built with **MethodChannel**, custom **Canvas rendering**, **AlarmManager + WorkManager** for background updates, and shared persistence between Flutter and Kotlin layers.
+
 > Flutter · Kotlin · Android AppWidget · MethodChannel · WorkManager
+
+---
+
+### [algex](https://github.com/tristecsv/algex)
+Taylor series calculator for e^x with full iteration history, error analysis, and interactive convergence charts.
+Built with a pure Dart engine decoupled from Flutter, **InheritedNotifier** for state management without third-party packages, and four charts with **fl_chart**.
+
+> Flutter · fl_chart · InheritedNotifier · Numerical methods
 
 ---
 
 ### kinderlog *(uploading soon)*
 School enrollment and management app built for a real kindergarten.
 Features real-time student data, full CRUD with image uploads to Supabase Storage, PDF generation, and a live dashboard with classroom counts.
+
 > Flutter · BLoC/Cubit · Supabase Realtime · PDF generation
 
 ---
 
-### algex *(uploading soon)*
-Taylor series calculator for e^x with full iteration history, error analysis, and interactive charts.
-> Flutter · fl_chart · Numerical methods
-
----
-
 ## 🛠 What I work with
-
-- **Flutter** — mobile apps with clean architecture and real Android integration
+- **Flutter** — mobile and desktop apps with clean architecture
 - **BLoC / Cubit** — state management for complex flows
 - **Supabase** — auth, database, storage, realtime subscriptions
 - **Kotlin** — native Android components when Flutter alone isn't enough
@@ -46,5 +48,4 @@ Taylor series calculator for e^x with full iteration history, error analysis, an
 ---
 
 ## 📫 Contact
-
 [tristecsv@gmail.com](mailto:tristecsv@gmail.com)
